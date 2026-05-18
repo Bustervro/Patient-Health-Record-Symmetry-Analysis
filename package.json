@@ -1,0 +1,12 @@
+{
+  "name": "health-record-symmetry",
+  "version": "1.0.0",
+  "description": "Palindrome linked list checker",
+  "main": "healthRecord.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
